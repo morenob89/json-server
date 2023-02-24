@@ -1,0 +1,14 @@
+{
+    "distribution": [
+      {
+        "distributionName": "test test",
+        "originName": "Moj Origin",
+        "originDomain": "www.test.com",
+        "originPath": "/path",
+        "cache": "best-static",
+        "status": "Deployed",
+        "pricingRegion": "use-na-eu",
+        "id": 1
+      }
+    ]
+  }
